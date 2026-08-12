@@ -59,16 +59,16 @@ PHP (Laravel), and I'm continuing to sharpen my front-end and system design skil
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
+| Project | Description | Stack | Staus
 |---|---|---| 
-| [**sharifi-travel**](https://sharifineyatrip.com/) | Django, DRF, React, PostgreSQL
-| [**Online Credit Recharge**](https://asankhetmat.com/) | Laravel API, React, MySQL
-| [**Inventory**](https://github.com/ghulamalirasuli/inventory.git) | Inventory system built with Laravel API | React | MySQL
-| [**XRate - Money Exchange Management Desktop Application**](https://github.com/ghulamalirasuli/xrate-desktop.git) | XRate - Money Exchange Management Desktop Application built with HTML | CSS | JS | Electron
-| [**Chat Story**](https://github.com/ghulamalirasuli/chat-story.git) | A social publishing and messaging platform, rebuilt as a Django REST Framework API with a React (Vite) client and an NLP engine that reads every piece of content the moment it is written — scoring tone, pulling out key phrases, writing a summary, detecting the language, flagging abuse and suggesting emoji that match the mood.
+| [**sharifi-travel**](https://sharifineyatrip.com/) | Travel and transport system: web, admin, booking, payments | Django, DRF, React, PostgreSQL | Live
+| [**Online Credit Recharge**](https://asankhetmat.com/) | he system enables customers to request credit recharges and allows administrators to manage users, recharge requests, wallets, advertisements, system settings, and reports | Laravel API, React, MySQL | Live
+| [**Inventory**](https://github.com/ghulamalirasuli/inventory.git) | Industrial Inventory & Production ERP | built with Laravel API, React, MySQL | Github
+| [**XRate - Money Exchange Management Desktop Application**](https://github.com/ghulamalirasuli/xrate-desktop.git) | XRate - Money Exchange Management Desktop Application| built with HTM, CSS, JS, Electron | Github
+| [**Chat Story**](https://github.com/ghulamalirasuli/chat-story.git) | A social publishing and messaging platform, and an NLP engine that reads every piece of content the moment it is written — scoring tone, pulling out key phrases, writing a summary, detecting the language, flagging abuse and suggesting emoji that match the mood.|  rebuilt as a Django REST Framework API with a React (Vite) client | Github
 
-| [**Job Portal**](https://github.com/ghulamalirasuli/job-portal.git) | built with Laravel API | React | MySQL
-| [**Real Estate**](https://github.com/ghulamalirasuli/real-estate.git) | build with a Laravel backend, React/Vite frontend (TypeScript), and a React Native mobile client
+| [**Job Portal**](https://github.com/ghulamalirasuli/job-portal.git) |A multilingual, GDPR-compliant job portal targeting European markets| Laravel 12 · React 19 · Inertia.js · TailwindCSS v4 · SQLite  | Github
+| [**Real Estate**](https://github.com/ghulamalirasuli/real-estate.git) | | A full-stack real estate application with a Laravel backend, React/Vite frontend (TypeScript), and a React Native mobile client | Githib
 
 <br>
 
