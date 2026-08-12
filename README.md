@@ -47,7 +47,7 @@ PHP (Laravel), and I'm continuing to sharpen my front-end and system design skil
 
 **Core stack** PHP · HTML · Laravel/Filament/React JS
 
-**Currently building** Inventory and booking systems, personal & travel sites
+**Currently building** Inventory, booking systems, personal & travel sites
 
 **Status** Open to work and collaboration
 
