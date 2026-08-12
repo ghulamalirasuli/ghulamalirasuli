@@ -60,12 +60,15 @@ PHP (Laravel), and I'm continuing to sharpen my front-end and system design skil
 ## 🚀 Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [**sharifi-travel**](https://github.com/ghulamalirasuli/sharifi-travel) | Travel service platform | HTML |
-| [**flightbooking-filament**](https://github.com/ghulamalirasuli/flightbooking-filament) | Flight booking system built with Django RestAPI | Python |
-| [**my-portfolio**](https://github.com/ghulamalirasuli/my-portfolio) | Personal portfolio site | HTML |
-| [**resume**](https://github.com/ghulamalirasuli/resume) | Resume/CV site | HTML |
-| [**mycv**](https://github.com/ghulamalirasuli/mycv) | CV site | HTML |
+|---|---|---| 
+| [**sharifi-travel**](https://sharifineyatrip.com/) | Django, DRF, React, PostgreSQL
+| [**Online Credit Recharge**](https://asankhetmat.com/) | Laravel API, React, MySQL
+| [**Inventory**](https://github.com/ghulamalirasuli/inventory.git) | Inventory system built with Laravel API | React | MySQL
+| [**XRate - Money Exchange Management Desktop Application**](https://github.com/ghulamalirasuli/xrate-desktop.git) | XRate - Money Exchange Management Desktop Application built with HTML | CSS | JS | Electron
+| [**Chat Story**](https://github.com/ghulamalirasuli/chat-story.git) | A social publishing and messaging platform, rebuilt as a Django REST Framework API with a React (Vite) client and an NLP engine that reads every piece of content the moment it is written — scoring tone, pulling out key phrases, writing a summary, detecting the language, flagging abuse and suggesting emoji that match the mood.
+
+| [**Job Portal**](https://github.com/ghulamalirasuli/job-portal.git) | built with Laravel API | React | MySQL
+| [**Real Estate**](https://github.com/ghulamalirasuli/real-estate.git) | build with a Laravel backend, React/Vite frontend (TypeScript), and a React Native mobile client
 
 <br>
 
