@@ -25,7 +25,7 @@
 ## 📌 About
 
 I build web applications end to end — from booking flows and CVs to travel and portfolio sites.
-Most of my work centers on PHP, and I enjoy turning practical, everyday problems into clean,
+Most of my work centers on PHP (Laravel), and I enjoy turning practical, everyday problems into clean,
 working products.
 
 <table>
@@ -38,16 +38,16 @@ I'm a full-stack developer who enjoys shipping real, usable products —
 booking systems, CVs, portfolios, and travel platforms.
 
 I'm comfortable across the stack, but especially enjoy backend logic in
-PHP, and I'm continuing to sharpen my front-end and system design skills.
+PHP (Laravel), and I'm continuing to sharpen my front-end and system design skills.
 
 </td>
 <td valign="top" width="50%">
 
 ### ⚡ At a Glance
 
-**Core stack** PHP · HTML · Laravel/Filament
+**Core stack** PHP · HTML · Laravel/Filament/React JS
 
-**Currently building** Flight booking systems, personal & travel sites
+**Currently building** Inventory and booking systems, personal & travel sites
 
 **Status** Open to work and collaboration
 
@@ -62,7 +62,7 @@ PHP, and I'm continuing to sharpen my front-end and system design skills.
 | Project | Description | Stack |
 |---|---|---|
 | [**sharifi-travel**](https://github.com/ghulamalirasuli/sharifi-travel) | Travel service platform | HTML |
-| [**flightbooking-filament**](https://github.com/ghulamalirasuli/flightbooking-filament) | Flight booking system built with Filament | PHP |
+| [**flightbooking-filament**](https://github.com/ghulamalirasuli/flightbooking-filament) | Flight booking system built with Django RestAPI | Python |
 | [**my-portfolio**](https://github.com/ghulamalirasuli/my-portfolio) | Personal portfolio site | HTML |
 | [**resume**](https://github.com/ghulamalirasuli/resume) | Resume/CV site | HTML |
 | [**mycv**](https://github.com/ghulamalirasuli/mycv) | CV site | HTML |
