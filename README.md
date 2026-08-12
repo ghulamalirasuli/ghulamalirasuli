@@ -58,17 +58,16 @@ PHP (Laravel), and I'm continuing to sharpen my front-end and system design skil
 <br>
 
 ## 🚀 Projects
+| # | Project | What it is | Stack | Status |
+|---|---|---|---|---|
+| 01 | [**Sharifineya Travel**](https://sharifineyatrip.com/) | Travel and transport system: web, admin, booking, payments | Django, DRF, React, PostgreSQL | Live |
+| 02 | [**Online Credit Recharge**](https://asankhetmat.com/) | Lets customers request credit recharges; admins manage users, recharge requests, wallets, ads, settings, and reports | Laravel API, React, MySQL | Live |
+| 03 | [**Inventory**](https://github.com/ghulamalirasuli/inventory) | Industrial inventory & production ERP | Laravel API, React, MySQL | Github |
+| 04 | [**XRate — Money Exchange Desktop App**](https://github.com/ghulamalirasuli/xrate-desktop) | Money exchange management desktop application | HTML, CSS, JS, Electron | Github |
+| 05 | [**Chat Story**](https://github.com/ghulamalirasuli/chat-story) | Social publishing & messaging platform with an NLP engine that scores tone, extracts key phrases, summarizes, detects language, flags abuse, and suggests mood-matching emoji in real time | Django REST Framework API, React (Vite) | Github |
+| 06 | [**Job Portal**](https://github.com/ghulamalirasuli/job-portal) | Multilingual, GDPR-compliant job portal targeting European markets | Laravel 12, React 19, Inertia.js, TailwindCSS v4, SQLite | Github |
+| 07 | [**Real Estate**](https://github.com/ghulamalirasuli/real-estate) | Full-stack real estate app: Laravel backend, React/Vite (TypeScript) frontend, React Native mobile client | Laravel, React, TypeScript, React Native | Github |
 
-| Project | Description | Stack | Staus
-|---|---|---| 
-| [**sharifi-travel**](https://sharifineyatrip.com/) | Travel and transport system: web, admin, booking, payments | Django, DRF, React, PostgreSQL | Live
-| [**Online Credit Recharge**](https://asankhetmat.com/) | he system enables customers to request credit recharges and allows administrators to manage users, recharge requests, wallets, advertisements, system settings, and reports | Laravel API, React, MySQL | Live
-| [**Inventory**](https://github.com/ghulamalirasuli/inventory.git) | Industrial Inventory & Production ERP | built with Laravel API, React, MySQL | Github
-| [**XRate - Money Exchange Management Desktop Application**](https://github.com/ghulamalirasuli/xrate-desktop.git) | XRate - Money Exchange Management Desktop Application| built with HTM, CSS, JS, Electron | Github
-| [**Chat Story**](https://github.com/ghulamalirasuli/chat-story.git) | A social publishing and messaging platform, and an NLP engine that reads every piece of content the moment it is written — scoring tone, pulling out key phrases, writing a summary, detecting the language, flagging abuse and suggesting emoji that match the mood.|  rebuilt as a Django REST Framework API with a React (Vite) client | Github
-
-| [**Job Portal**](https://github.com/ghulamalirasuli/job-portal.git) |A multilingual, GDPR-compliant job portal targeting European markets| Laravel 12 · React 19 · Inertia.js · TailwindCSS v4 · SQLite  | Github
-| [**Real Estate**](https://github.com/ghulamalirasuli/real-estate.git) | | A full-stack real estate application with a Laravel backend, React/Vite frontend (TypeScript), and a React Native mobile client | Githib
 
 <br>
 
